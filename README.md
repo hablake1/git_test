@@ -1,1 +1,1 @@
-This is Haldey's first Git Project!
+This is Hadley's first Git Project!
